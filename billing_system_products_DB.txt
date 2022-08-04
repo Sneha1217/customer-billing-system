@@ -1,0 +1,1 @@
+|001*10$maggi||002*10$biscuit||003*20$chips||004*25$jam||005*20$butter||006*20$bread||007*6$Eggs||008*50$Rice||009*25$wheat||010*100$pulses|
